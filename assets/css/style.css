@@ -188,7 +188,7 @@ section {
     left: 0;
     width: 100%;
     transition: all 0.5s;
-    z-index: 997;
+    z-index: 1000;
     padding: 20px 0;
 }
 
